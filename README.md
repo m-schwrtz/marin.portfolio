@@ -1,3 +1,3 @@
 # marin.portfolio
  
-https://marinpoux.github.io/marin.portfolio/
+https://m-schwrtz.github.io/marin.portfolio/
